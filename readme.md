@@ -1,6 +1,6 @@
-# Análise de Dados com Python e Pandas
+# Análise de Dados com Python
 
-Este repositório contém um projeto de análise de dados utilizando Python e a biblioteca Pandas.
+Este repositório contém um projeto de análise de dados utilizando Python e as bibliotecas "Pandas" para analise de dados, "Matplotlib" para plotar os gráficos e visualizalos e "Seaborn" para a edição dos gráficos criados .
 
 ## Descrição
 
