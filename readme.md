@@ -20,3 +20,6 @@ O projeto inclui:
    ```bash
    git clone https://github.com/seu-usuario/analise-de-dados.git
 
+## Gráficos 
+
+`despesas.png`
