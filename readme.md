@@ -19,10 +19,3 @@ O projeto inclui:
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seu-usuario/analise-de-dados.git
-
-## Gráficos 
-
-`regiao.png`
-`clientesFumantes.png`
-`idadeClientes.png`
-`despesas.png`
