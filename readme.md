@@ -22,4 +22,7 @@ O projeto inclui:
 
 ## Gráficos 
 
+`regiao.png`
+`clientesFumantes.png`
+`idadeClientes.png`
 `despesas.png`
