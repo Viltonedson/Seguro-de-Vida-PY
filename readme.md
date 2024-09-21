@@ -11,7 +11,8 @@ O projeto inclui:
 
 ## Arquivos
 
-- `analise_de_dados.ipynb`: Notebook com o código da análise
+- `Grafico.py`: Notebook com o código da análise
+- `Segurodevida.py`: Arquivo Python para gerar os gráficos
 - `seguro_de_vida.csv`: Arquivo CSV com os dados utilizados
 
 ## Como Usar
